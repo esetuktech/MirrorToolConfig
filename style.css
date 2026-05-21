@@ -1,0 +1,60 @@
+body
+{
+  font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.uploads_page
+{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.indexcolname, .indexcolname a:link, .indexcolname a:visited, .indexcollastmod a:link, .indexcolsize a:link, .indexcoldesc a:link
+{
+	color: #0096A1;
+}
+.btn-eset-color
+{
+  background-color: #0096A1;
+  color:white;
+}
+#indexlist, address
+{
+	width: 80%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1,
+h2,
+p {
+  font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  
+}
+
+
+.header-bg-dark{
+    background-color: #0096A1!important;
+
+}
+footer.footer {  
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.footer-bg-dark {
+    background-color: #181c20!important;
+}
+#file-progress-bar
+{
+  background-color: #0096A1;
+  color: white;
+  text-align: center;
+}
+
+
+
